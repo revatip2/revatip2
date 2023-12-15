@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm a graduate student currently pursuing Data Science @ University of Southern California (USC). I'm eager to collaborate on projects and explore internship opportunities in the exciting fields of Software Engineering, Machine Learning, and Data Science.
+I'm a graduate student currently pursuing Data Science @ University of Southern California (USC). I'm eager to collaborate on projects and explore internship opportunities in the exciting fields of Data Engineering, Machine Learning, and Data Science.
 
 ## About Me
 

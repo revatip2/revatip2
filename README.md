@@ -15,7 +15,6 @@ I'm a graduate student currently pursuing Data Science @ University of Southern 
 ## About Me
 
 - 👩‍💻 I’m working as a Data Engineer and contributing to building ETL pipelines, predictive models for forecasting needs, and I also do backend developement for building web applications and integrations.
-- 🌐 Actively engaged in optimizing Large Language Models (LLMs) for resource-constrained edge devices.
 - 🤖 Experience working on architecting seamless integrations during my time at Deloitte.
 - 🏥 Previous work at Capgemini focused on early detection of abnormal gaits in healthcare AI for early detection of osteoarthritis.
 

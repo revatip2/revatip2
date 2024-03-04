@@ -12,19 +12,6 @@
 
 I'm a graduate student currently pursuing Data Science @ University of Southern California (USC). I'm eager to collaborate on projects and explore internship opportunities in the exciting fields of Data Engineering, Machine Learning, and Data Science.
 
-## About Me
-
-- 👩‍💻 I’m working as a Data Engineer and contributing to building ETL pipelines, predictive models for forecasting needs, and I also do backend developement for building web applications and integrations.
-- 🤖 Experience working on architecting seamless integrations during my time at Deloitte.
-- 🏥 Previous work at Capgemini focused on early detection of abnormal gaits in healthcare AI for early detection of osteoarthritis.
-
-
-## My Interests
-
-- 🏥 Healthcare and medical applications of AI/ML.
-- 💰 Applying data-driven insights to financial markets and analysis.
-- 🔍 Exploring innovative solutions to real-world challenges through software engineering and data science.
-
 ## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>

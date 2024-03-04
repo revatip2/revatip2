@@ -10,7 +10,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm a graduate student currently pursuing Data Science @ University of Southern California (USC). I'm eager to collaborate on projects and explore internship opportunities in the exciting fields of Data Engineering, Machine Learning, and Data Science.
+Hi! I am a Data Scientist and ML Researcher skilled in Software Development, Machine Learning, Big Data, and Data Engineering.
+
+My career across diverse industries — Healthcare, Investment Management, Entertainment, and Information Systems — has honed my expertise across the data and machine learning lifecycle.
+
+Currently pursuing a Data Science graduate program at USC, I'm deepening my knowledge in vital areas like deep learning, model optimization, data mining, natural language processing, and database management.
+
+I aim to contribute to innovative data science methodologies and scalable frameworks, shaping a dynamic future for businesses. I'm eager to collaborate on projects and explore internship opportunities.
 
 ## Languages and Tools
 <div>

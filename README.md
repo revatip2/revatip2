@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hi! I am a Data Scientist and ML Researcher skilled in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Engineering.
+Hi! I am a Data Scientist and ML Researcher skilled in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics.
 
 My career across diverse industries — Healthcare, Investment Management, Entertainment, and Information Systems — has honed my expertise across the data and machine learning lifecycle.
 

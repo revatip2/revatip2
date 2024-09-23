@@ -55,5 +55,8 @@ With my unique blend of machine learning and backend development skills, I am co
 
 ## How to Reach Me
 
-I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via [![Linkedin Badge](https://img.shields.io/badge/-RevatiPawar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/revatipawar29/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/revatipawar29/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pawar.revatirajesh@gmail.com)
+
 

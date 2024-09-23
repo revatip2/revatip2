@@ -10,13 +10,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hi! I am a Data Scientist and ML Researcher skilled in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics.
+I am a Data Scientist and Machine Learning Researcher with strong expertise in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master's in Data Science at the University of Southern California, I am passionate about combining machine learning and software engineering to build impactful solutions.
 
-My career across diverse industries — Healthcare, Investment Management, Entertainment, and Information Systems — has honed my expertise across the data and machine learning lifecycle.
+Throughout my career, I’ve gained hands-on experience working with real-world data across industries including Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, neural networks, and language models, giving me a comprehensive understanding of the data science lifecycle.
 
-Currently pursuing a Data Science graduate program at USC, I'm deepening my knowledge in vital areas like deep learning, model optimization, data mining, natural language processing, and database management.
+At Deloitte, I worked as a Software Engineer in a client-facing role, developing system integrations for a media conglomerate and an investment management firm. I managed the entire project lifecycle—from gathering requirements and designing workflows to building data pipelines, deploying solutions, and presenting final results to clients.
 
-I aim to contribute to innovative data science methodologies and scalable frameworks, shaping a dynamic future for businesses. I'm eager to collaborate on projects and explore internship opportunities.
+With my unique blend of machine learning and backend development skills, I am continuously expanding into full-stack machine learning. My goal is to make a lasting impact in the tech industry by driving innovation and delivering data-driven solutions that solve complex problems.
 
 ## Languages and Tools
 <div>

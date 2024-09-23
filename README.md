@@ -63,4 +63,3 @@ With my unique blend of machine learning and backend development skills, I am co
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" height="30">
 </a>
 
-

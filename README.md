@@ -11,7 +11,7 @@ I am a Data Scientist and Machine Learning Researcher with strong expertise in S
 
 Throughout my career, I’ve gained hands-on experience working with real-world data across industries including Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, neural networks, and language models, giving me a comprehensive understanding of the data science lifecycle.
 
-At Deloitte, I worked as a Software Engineer in a client-facing role, developing system integrations for a media conglomerate and an investment management firm. I managed the entire project lifecycle—from gathering requirements and designing workflows to building data pipelines, deploying solutions, and presenting final results to clients.
+At Deloitte, I worked as a Technology Analyst in a client-facing role, developing system integrations for a media conglomerate and an investment management firm. I managed the entire project lifecycle—from gathering requirements and designing workflows to building data pipelines, deploying solutions, and presenting final results to clients.
 
 With my unique blend of machine learning and backend development skills, I am continuously expanding into full-stack machine learning. My goal is to make a lasting impact in the tech industry by driving innovation and delivering data-driven solutions that solve complex problems.
 

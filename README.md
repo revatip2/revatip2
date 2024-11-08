@@ -7,13 +7,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Data Scientist and Machine Learning Researcher with strong expertise in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master's in Data Science at the University of Southern California, I am passionate about combining machine learning and software engineering to build impactful solutions.
+I am a Data Scientist and Software Engineer with a strong background in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master’s in Applied Data Science at the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
 
-Throughout my career, I’ve gained hands-on experience working with real-world data across industries including Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, neural networks, and language models, giving me a comprehensive understanding of the data science lifecycle.
+I have hands-on experience working with real-world data in industries such as Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
 
-At Deloitte, I worked as a Technology Analyst in a client-facing role, developing system integrations for a media conglomerate and an investment management firm. I managed the entire project lifecycle—from gathering requirements and designing workflows to building data pipelines, deploying solutions, and presenting final results to clients.
+At Deloitte, I worked as a Technology Analyst, leading system integrations and developing analytics-driven solutions for clients in media and investment management. From gathering requirements to presenting final results, I managed the entire project lifecycle, delivering impactful data solutions.
 
-With my unique blend of machine learning and backend development skills, I am continuously expanding into full-stack machine learning. My goal is to make a lasting impact in the tech industry by driving innovation and delivering data-driven solutions that solve complex problems.
+Whether through advanced machine learning models or data analytics frameworks, my goal is to drive innovation and solve complex problems. I’m actively seeking opportunities in data science and software engineering, where I can apply my skills to unlock insights and deliver value through data-driven decision-making.
 
 <div>
   <h2>Tech Stack</h2>

@@ -11,7 +11,7 @@ I am a Data Scientist and Software Engineer with a strong background in Software
 
 I have hands-on experience working with real-world data in industries such as Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
 
-At Deloitte, I worked as a Technology Analyst, leading system integrations and developing analytics-driven solutions for clients in media and investment management. From gathering requirements to presenting final results, I managed the entire project lifecycle, delivering impactful data solutions.
+At Deloitte, I worked as a Data Scientist, leading system integrations, data pipelines, and developing analytical models for clients in media and investment management. From gathering requirements to presenting final results, I managed the entire project lifecycle, delivering impactful data solutions.
 
 Whether through advanced machine learning models or data analytics frameworks, my goal is to drive innovation and solve complex problems. I’m actively seeking opportunities in data science and software engineering, where I can apply my skills to unlock insights and deliver value through data-driven decision-making.
 

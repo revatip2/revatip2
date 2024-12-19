@@ -9,9 +9,9 @@
 
 I am a Data Scientist and Software Engineer with a strong background in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master’s in Applied Data Science at the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
 
-I have hands-on experience working with real-world data in industries such as Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
+I have hands-on experience working with real-world data in industries such as Marketing, Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
 
-At Deloitte, I worked as a Data Scientist, leading system integrations, data pipelines, and developing analytical models for clients in media and investment management. From gathering requirements to presenting final results, I managed the entire project lifecycle, delivering impactful data solutions.
+At Deloitte, I worked as a Software Engineer, leading system integrations, data pipelines, and developing analytical models for clients in media and investment management. From gathering requirements to presenting final results, I managed the entire project lifecycle, delivering impactful data solutions.
 
 Whether through advanced machine learning models or data analytics frameworks, my goal is to drive innovation and solve complex problems. I’m actively seeking opportunities in data science and software engineering, where I can apply my skills to unlock insights and deliver value through data-driven decision-making.
 

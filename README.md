@@ -6,7 +6,7 @@
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+Check out my Portfolio here: https://revatipawar.netlify.app/
 I am a Data Scientist and Software Engineer with a strong background in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master’s in Applied Data Science at the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
 
 I have hands-on experience working with real-world data in industries such as Marketing, Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.

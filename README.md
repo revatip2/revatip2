@@ -9,9 +9,9 @@
 Check out my Portfolio here: https://revatipawar.netlify.app/
 
 
-I am a Data Scientist and Software Engineer with a strong background in Software Development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master’s in Applied Data Science at the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
+I am an AI/ML Engineer and Software Developer with a strong background in AI, Backend development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master’s in Applied Data Science at the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
 
-I have hands-on experience working with real-world data in industries such as Marketing, Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
+I have hands-on experience working with real-world data in industries such as FinTech, Marketing, Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
 
 At Deloitte, I worked as a Software Engineer, leading system integrations, data pipelines, and developing analytical models for clients in media and investment management. From gathering requirements to presenting final results, I managed the entire project lifecycle, delivering impactful data solutions.
 

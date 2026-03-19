@@ -8,8 +8,11 @@
 </h1>
 Check out my Portfolio here: https://revatipawar.netlify.app/
 
+Currently, a full stack AI Engineer at Dragin Technologies LLC, enabling faster and more efficient financial underwriting!
 
-I am an AI/ML Engineer and Software Developer with a strong background in AI, Backend development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master’s in Applied Data Science at the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
+Here's more about my background:
+
+I am an AI/ML Engineer and Software Developer with a strong background in AI, Backend development, Statistics, Machine Learning, NLP, Big Data, and Data Analytics. Completed my Master’s in Applied Data Science from the University of Southern California, I am passionate about leveraging data-driven insights and machine learning to build impactful solutions across various domains.
 
 I have hands-on experience working with real-world data in industries such as FinTech, Marketing, Healthcare, Investment Management, Entertainment, and Information Systems. My expertise spans time series forecasting, regression analysis, classification algorithms, NLP, and neural networks. I also specialize in building end-to-end solutions—ranging from data pipelines to deploying machine learning models—ensuring that I can contribute to every stage of the data science lifecycle.
 
